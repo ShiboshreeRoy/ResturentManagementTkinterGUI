@@ -1,3 +1,3 @@
 # Project Name : # Resturent Menagement
 
-![Project Logo or Screenshot](../sender.png)
+![Project Logo or Screenshot](./image.png)
